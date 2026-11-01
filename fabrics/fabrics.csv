@@ -1,0 +1,4 @@
+part_number,title,manufacturer,collection,fabric_type,opacity,openness_pct,color,texture,backing,material,roll_width_in,fire_rating,price_per_sqft,est_price_36x60,status,replacement_part,date_added,item_folder
+FAB-1001,Nightfall Linen,Vertilux,Evolution®,Blackout,100% blackout,0,Charcoal,Linen weave,White,Polyester,98,NFPA 701,3.25,48.75,Active,,2026-11-01,fabrics/FAB-1001
+FAB-1002,Cloudline Blackout,Vertilux,Evolution®,Blackout,100% blackout,0,Ivory,Smooth,Ivory (color-matched),Polyester,118,NFPA 701,2.90,43.50,Active,,2026-11-01,fabrics/FAB-1002
+FAB-1003,Polyscreen Vision® 5% Dove Gray,Vertilux,Polyscreen Vision®,Solar screen,Light filtering,5,Dove Gray,Basketweave,None,PVC-coated polyester,98,NFPA 701,3.60,54.00,Active,,2026-11-01,fabrics/FAB-1003
