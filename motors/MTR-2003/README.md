@@ -1,6 +1,6 @@
 # MTR-2003: VTi® Celtic RF Rechargeable Battery Motor
 
-![VTi Celtic RF rechargeable battery motor](photo.jpg)
+![VTi Celtic RF rechargeable battery motor](photo2.jpg)
 
 A wire-free tubular motor with a built-in rechargeable lithium-ion battery and RF remote control. The best choice when there's no power at the window, such as retrofits in finished homes.
 
