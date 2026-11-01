@@ -1,0 +1,4 @@
+part_number,title,manufacturer,product_line,power_type,voltage,control_type,limit_type,torque_nm,max_shade_weight_lb,tube_size,noise_db,price_each,status,replacement_part,date_added,item_folder
+MTR-2001,"VTi® Celtic RF AC Motor, Electronic Limits",Vertilux,VTi® Celtic,AC hardwired,110V AC,RF remote,Electronic,6,22,"1.5""",≤ 42,185.00,Active,,2026-11-01,motors/MTR-2001
+MTR-2002,"VTi® Celtic RF AC Motor, Mechanical Limits",Vertilux,VTi® Celtic,AC hardwired,110V AC,RF remote,Mechanical,6,22,"1.5""",≤ 42,160.00,Discontinued,MTR-2001,2026-11-01,motors/MTR-2002
+MTR-2003,VTi® Celtic RF Rechargeable Battery Motor,Vertilux,VTi® Celtic,Rechargeable battery,12V DC (Li-ion),RF remote,Electronic,1.1,10,"1.5""",≤ 42,215.00,Active,,2026-11-01,motors/MTR-2003
