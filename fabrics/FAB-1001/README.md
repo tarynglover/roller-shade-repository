@@ -1,7 +1,6 @@
 # FAB-1001: Nightfall Linen
 
-![Nightfall Linen fabric sample](photo.jpg)
-
+![Nightfall Linen fabric sample](NIGHTFALL-SKY_min.jpg)
 A linen-texture blackout fabric in charcoal with a white backing. Our go-to choice for bedrooms and media rooms where customers want full darkness with a woven, natural look.
 
 ## Metadata
