@@ -1,6 +1,6 @@
 # FAB-1003: Polyscreen Vision® 5% Dove Gray
 
-![Polyscreen Vision 5% Dove Gray fabric sample](photo.jpg)
+![Polyscreen Vision 5% Dove Gray fabric sample](photo1.jpg)
 
 A 5% openness solar screen in dove gray. It cuts glare and heat while keeping the view outside, making it a popular choice for living rooms, kitchens, and offices.
 
