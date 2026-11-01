@@ -1,6 +1,6 @@
 # MTR-2001: VTi® Celtic RF AC Motor, Electronic Limits
 
-![VTi Celtic RF AC motor](photo.jpg)
+![VTi Celtic RF AC motor](photo3.jpg)
 
 A hardwired 110V AC tubular motor with RF remote control. Up and down stopping points (limits) are set electronically with the remote, so no adjustment screws are needed. This is our standard motor for medium-size shades where power is available at the window.
 
