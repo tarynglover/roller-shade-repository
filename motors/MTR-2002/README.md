@@ -2,7 +2,7 @@
 
 > ⚠️ **DISCONTINUED.** Do not quote this item. Use **[MTR-2001](../MTR-2001/)** instead.
 
-![VTi Celtic RF AC motor, mechanical limits](photo.jpg)
+![VTi Celtic RF AC motor, mechanical limits](photo4.jpg)
 
 A hardwired 110V AC tubular motor with RF remote control and mechanical limits set by adjustment screws on the motor head. It's kept in the repository so staff can identify and service shades that already have it installed.
 
